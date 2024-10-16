@@ -1,0 +1,18 @@
+Rental Record:
+Customer ID: 1
+Name: Pavan
+Date: From 2024-09-25 to 2024-09-30
+Rental Days: 5, Rental Hours: 0.0
+Total Price (before GST): ₹3000.0
+GST: ₹540.0
+Total Cost (including GST): ₹3540.0
+---------------------------------------------------
+Rental Record:
+Customer ID: 1
+Name: Pavan
+Date: From 2024-09-25 to 2024-09-30
+Rental Days: 5, Rental Hours: 0.0
+Total Price (before GST): ₹3000.0
+GST: ₹540.0
+Total Cost (including GST): ₹3540.0
+---------------------------------------------------
